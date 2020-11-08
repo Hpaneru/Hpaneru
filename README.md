@@ -1,8 +1,7 @@
 ### Hi!! Its me Hp 👋
 
 Wanna know more about me:
-
-- 🔭 I’m currently working on ...
+<--
 - 🌱 I’m currently learning everything i can
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
