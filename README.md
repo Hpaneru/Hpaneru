@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="http://hemantpaneru.com.np/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=earth&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 </div>
