@@ -46,7 +46,7 @@ Wanna know more about me:
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hpaneru&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=090909)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hpaneru&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=090909)]
+(https://github.com/Hpaneru)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpaneru&layout=compact&theme=vision-friendly-dark)
